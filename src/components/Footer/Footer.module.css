@@ -1,0 +1,13 @@
+.socialbox {
+    border-top: 2px solid;
+    border-image-slice: 1;
+    border-width: 2px;
+    border-image-source: linear-gradient(90deg, rgb(169, 211, 148), rgba(252,221,242,1) 100%);
+    font-size: 0.9em;
+    align-items: center;
+}
+.newsletter {
+    position: absolute;
+    top: -20px;
+    right: 20px;
+}

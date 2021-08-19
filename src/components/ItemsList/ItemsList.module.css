@@ -1,0 +1,129 @@
+.body {
+	background-color: white;
+	width: 90%;
+	margin: 50px auto;
+	display: flex;
+}
+.sidebar {
+    border-right: 1px solid #eee;
+    width: 285px;
+    color:#262626;
+	padding: 5%;
+	height: 100;
+}
+.title{
+	color:#262626;
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:700;
+	padding:35px 0 10px 0;
+	letter-spacing:1px;
+	clear:both;
+}
+.titleBig {
+	color:#262626;
+	text-transform:uppercase;
+	font-size:34px;
+	font-weight:700;
+	padding:35px 0 10px 0;
+	letter-spacing:1px;
+	clear:both;
+}
+.subtitle{
+	color:#4b4a4a;
+	text-transform:uppercase;
+	font-size:12px;
+	font-weight:700;
+	padding:35px 0 10px 0;
+	letter-spacing:1px;
+	clear:both;
+}
+.empty{
+	font-style:italic;
+	color:#a0a3ab;
+	font-size:14px;
+	letter-spacing:1px;	
+}
+.cartIcon1{
+	background:#fff url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/cart.png") 0 -3px no-repeat;
+	margin:0;
+	width:21px;
+	height:3px;
+	z-index:1;
+}
+.cartIcon2{
+	background:#fff url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/cart.png") 0 -3px no-repeat;
+	width:21px;
+	height:19px;
+	z-index:1;
+}
+
+.catergories {
+	padding: 0;
+	margin: 0;
+}
+.checklist {
+	list-style-type: none;
+	padding: 0;
+}
+.checkbox {
+	float:left;
+	width:11px;
+	height:11px;
+	margin-left:-23px;
+	margin-top:4px;
+	border: 1px solid #d1d3d7;	
+}
+.dot {
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    display: inline-block;
+	margin-right: 5px;
+	border: 0.5px solid rgb(150, 148, 148);
+}
+.productsList {
+	margin-left: 0;
+	padding: 5%;
+	width: 100%;
+}
+.productBox {
+	width: 350px;
+	border: 1px solid rgb(236, 235, 235);
+	margin-right: 2%;
+	margin-bottom: 2%;
+	cursor: pointer;
+}
+.productBox:hover {
+	text-decoration: none;
+}
+.sticky {
+	width: 50%;
+	height: calc((100vh - 118px) * 0.8);
+	background-color: white;
+	position: sticky;
+	z-index: 1;
+	bottom: 10%;
+	align-self: flex-end;
+}
+.select {    
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 0.5em;
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+    line-height: inherit;
+    color: rgb(0, 0, 0);
+  }
+  .details {
+	color:#4b4a4a;
+	text-transform:uppercase;
+	font-size:12px;
+	font-weight:700;
+	letter-spacing:1px;
+	clear:both;
+	cursor: pointer;
+  }
