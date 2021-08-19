@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Embrioshop/static/css/main.5b689d23.chunk.css",
+    "main.js": "/Embrioshop/static/js/main.9d9b38de.chunk.js",
+    "main.js.map": "/Embrioshop/static/js/main.9d9b38de.chunk.js.map",
+    "runtime-main.js": "/Embrioshop/static/js/runtime-main.d299b059.js",
+    "runtime-main.js.map": "/Embrioshop/static/js/runtime-main.d299b059.js.map",
+    "static/js/2.673764ec.chunk.js": "/Embrioshop/static/js/2.673764ec.chunk.js",
+    "static/js/2.673764ec.chunk.js.map": "/Embrioshop/static/js/2.673764ec.chunk.js.map",
+    "static/js/3.e84ba1c7.chunk.js": "/Embrioshop/static/js/3.e84ba1c7.chunk.js",
+    "static/js/3.e84ba1c7.chunk.js.map": "/Embrioshop/static/js/3.e84ba1c7.chunk.js.map",
+    "index.html": "/Embrioshop/index.html",
+    "static/css/main.5b689d23.chunk.css.map": "/Embrioshop/static/css/main.5b689d23.chunk.css.map",
+    "static/js/2.673764ec.chunk.js.LICENSE.txt": "/Embrioshop/static/js/2.673764ec.chunk.js.LICENSE.txt",
+    "static/media/nike1.992566af.png": "/Embrioshop/static/media/nike1.992566af.png",
+    "static/media/nike2.6a8f6fb8.png": "/Embrioshop/static/media/nike2.6a8f6fb8.png",
+    "static/media/nike3.a2e3b44b.png": "/Embrioshop/static/media/nike3.a2e3b44b.png",
+    "static/media/nike4.f69936aa.png": "/Embrioshop/static/media/nike4.f69936aa.png",
+    "static/media/nike5.e8669387.png": "/Embrioshop/static/media/nike5.e8669387.png",
+    "static/media/nike6.4f862ad0.png": "/Embrioshop/static/media/nike6.4f862ad0.png",
+    "static/media/index.css": "/Embrioshop/static/media/waves.2d120cf2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d299b059.js",
+    "static/js/2.673764ec.chunk.js",
+    "static/css/main.5b689d23.chunk.css",
+    "static/js/main.9d9b38de.chunk.js"
+  ]
+}
